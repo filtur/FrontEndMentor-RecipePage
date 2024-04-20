@@ -12,24 +12,46 @@
       href="./assets/images/favicon-32x32.png"
     />
 
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+      rel="stylesheet"
+    />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Young+Serif&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="styles.css" />
+
     <title>Frontend Mentor | Recipe page</title>
   </head>
   <body>
     <div class="content-wrapper">
-      <header>
-        <img src="assets/images/image-omelette.jpeg" alt="Omelette" />
-        <h1>Simple Omelette Recipe</h1>
-      </header>
       <main>
+        <header>
+          <img src="assets/images/image-omelette.jpeg" alt="Omelette" />
+        </header>
         <article>
+          <section>
+            <h1>Simple Omelette Recipe</h1>
+          </section>
           <section>
             An easy and quick dish, perfect for any meal. This classic omelette
             combines beaten eggs cooked to perfection, optionally filled with
             your choice of cheese, vegetables, or meats.
           </section>
           <section>
-            Preparation time Total: Approximately 10 minutes Preparation: 5
-            minutes Cooking: 5 minutes
+            <div class="prep-time">
+              <h3>Preparation time</h3>
+              <ul>
+                <li><strong>Total:</strong> Approximately 10 minutes</li>
+                <li><strong>Preparation:</strong> 5 minutes</li>
+                <li><strong>Cooking:</strong> 5 minutes</li>
+              </ul>
+            </div>
           </section>
           <section>
             Ingredients 2-3 large eggs Salt, to taste Pepper, to taste 1

@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Desktop:
 ![](./desktop-recipe.png)
 
-Desktop:
+Mobile:
 ![](./mobile-recipe.png)
 
 ### Links

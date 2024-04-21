@@ -26,8 +26,8 @@ Mobile:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/filtur/FrontEndMentor-RecipePage)
+- Live Site URL: [Github Page](https://filtur.github.io/FrontEndMentor-RecipePage/)
 
 ## My process
 

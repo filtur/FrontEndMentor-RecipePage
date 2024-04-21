@@ -14,17 +14,15 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
 Desktop:
-![](./desktop-recipe.jpg)
+![](./desktop-recipe.png)
 
 Desktop:
-![](./mobile-recipe.jpg)
+![](./mobile-recipe.png)
 
 ### Links
 
